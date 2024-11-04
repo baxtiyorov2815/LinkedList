@@ -148,4 +148,5 @@ if __name__ == "__main__":
     print(ll.get(1))
     print(99 in ll)
     print(880 in ll)
+    print(200 in ll)
     print(ll.get_size())
